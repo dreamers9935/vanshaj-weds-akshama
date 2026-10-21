@@ -48,7 +48,7 @@
   const Sound = (() => {
     const bgm = $('#bgm');
     const btn = $('#music');
-    const VOL = 0.5;
+    const VOL = 0.7;
     let ctx = null;
     let musicGain = null;
     let sfx = null;

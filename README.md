@@ -37,4 +37,4 @@ You can link to a single screen with its id, for example `…/#haldi`, `…/#man
 | `bg-vishesh.webp` | photo-1637250750846-8247d2b1ea08 |
 | `bg-sampark.webp` | photo-1731441326210-bfcb6595e93a |
 
-**Music:** `assets/audio/shehnai.mp3` is "Traditional wedding_ceremonial vibe with shehna" by DesiFreeMusic on [Pixabay](https://pixabay.com/music/wedding-traditional-wedding-ceremonial-vibe-with-shehna-376293/), used under the [Pixabay Content License](https://pixabay.com/service/license-summary/).
+**Music:** `assets/audio/shehnai-wedding.mp3` is "Hindu Wedding Ceremony Music" (shehnai) by bobv2 on [Freesound](https://freesound.org/people/bobv2/sounds/395024/), released under [CC0](https://creativecommons.org/publicdomain/zero/1.0/) into the public domain.
