@@ -1,5 +1,5 @@
 /* =========================================================
-   Vanshaj & Akshama — invitation interactions
+   Vanshaj & Akshma — invitation interactions
    One fixed view: wheel / swipe / keys change the scene in place.
    Music, fireworks, sparkles, petals and a scratch-to-reveal date.
    ========================================================= */
@@ -48,7 +48,7 @@
   const Sound = (() => {
     const bgm = $('#bgm');
     const btn = $('#music');
-    const VOL = 0.7;
+    const VOL = 0.55;
     let ctx = null;
     let musicGain = null;
     let sfx = null;

@@ -1,5 +1,5 @@
 /* =========================================================
-   Vanshaj & Akshama — शुभ विवाह
+   Vanshaj & Akshma — शुभ विवाह
    Full-screen, scene-based wedding invitation
    ========================================================= */
 
@@ -342,7 +342,7 @@ body[data-mood="royal"]     .ambient__glow[data-mood="royal"] { opacity: 1; }
 
 /* Haldi thali */
 .thali {
-  --size: clamp(116px, min(38vw, 21vh), 220px);
+  --size: clamp(84px, min(32vw, 12vh), 190px);
   position: relative; flex: none; margin: 0 0 clamp(16px, 3.2vh, 32px);
   width: var(--size); height: var(--size);
   filter: drop-shadow(0 0 26px rgba(255, 190, 40, .35)) drop-shadow(0 16px 30px rgba(0, 0, 0, .55));
@@ -516,7 +516,9 @@ body[data-mood="royal"]     .ambient__glow[data-mood="royal"] { opacity: 1; }
   font-size: clamp(1.12rem, min(5vw, 3.6vh), 2.05rem); line-height: 1.35; color: var(--ivory);
   text-wrap: balance;
 }
-.events--1 .event__name { font-size: clamp(2.3rem, min(11vw, 7.4vh), 4.4rem); }
+.events--1 .event__name { font-size: clamp(1.9rem, min(9vw, 5.6vh), 3.4rem); }
+@media (max-height: 700px) { .thali { display: none; } }
+#haldi .divider { display: none; }
 .event__time {
   margin-top: .45em;
   font-family: var(--f-caps); font-size: var(--fs-xs); letter-spacing: .2em; padding-left: .2em;

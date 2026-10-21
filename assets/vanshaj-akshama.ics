@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Vanshaj weds Akshama//Invitation//HI
+PRODID:-//Vanshaj weds Akshma//Invitation//HI
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:वंशज & अक्षमा · शुभ विवाह
@@ -11,6 +11,7 @@ DTSTAMP:20261021T000000Z
 DTSTART:20261202T083000Z
 DTEND:20261202T093000Z
 SUMMARY:हल्दी · वंशज & अक्षमा
+LOCATION:शिव मंदिर के सामने\, टीचर्स कॉलोनी\, कैराना
 END:VEVENT
 BEGIN:VEVENT
 UID:mandha-poojan-20261203@vanshaj-weds-akshama
