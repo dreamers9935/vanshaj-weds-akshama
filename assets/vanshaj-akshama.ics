@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Vanshaj weds Akshama//Invitation//HI
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:वंशज & अक्षमा · शुभ विवाह
+X-WR-TIMEZONE:Asia/Kolkata
+BEGIN:VEVENT
+UID:haldi-20261202@vanshaj-weds-akshama
+DTSTAMP:20261021T000000Z
+DTSTART:20261202T083000Z
+DTEND:20261202T093000Z
+SUMMARY:हल्दी · वंशज & अक्षमा
+END:VEVENT
+BEGIN:VEVENT
+UID:mandha-poojan-20261203@vanshaj-weds-akshama
+DTSTAMP:20261021T000000Z
+DTSTART:20261203T053000Z
+DTEND:20261203T063000Z
+SUMMARY:मंढा पूजन · वंशज & अक्षमा
+LOCATION:अंबा मैरिज हॉल\, निकट Axis Bank\, शामली रोड\, कैराना
+END:VEVENT
+BEGIN:VEVENT
+UID:preetibhoj-20261203@vanshaj-weds-akshama
+DTSTAMP:20261021T000000Z
+DTSTART:20261203T063000Z
+DTEND:20261203T083000Z
+SUMMARY:प्रीतिभोज · वंशज & अक्षमा
+LOCATION:अंबा मैरिज हॉल\, निकट Axis Bank\, शामली रोड\, कैराना
+END:VEVENT
+BEGIN:VEVENT
+UID:mahila-sangeet-20261203@vanshaj-weds-akshama
+DTSTAMP:20261021T000000Z
+DTSTART:20261203T113000Z
+DTEND:20261203T143000Z
+SUMMARY:महिला संगीत · वंशज & अक्षमा
+LOCATION:अंबा मैरिज हॉल\, निकट Axis Bank\, शामली रोड\, कैराना
+END:VEVENT
+BEGIN:VEVENT
+UID:ghudchadhi-20261204@vanshaj-weds-akshama
+DTSTAMP:20261021T000000Z
+DTSTART:20261204T093000Z
+DTEND:20261204T113000Z
+SUMMARY:घुड़चढ़ी · वंशज & अक्षमा
+END:VEVENT
+BEGIN:VEVENT
+UID:baraat-20261204@vanshaj-weds-akshama
+DTSTAMP:20261021T000000Z
+DTSTART:20261204T113000Z
+DTEND:20261204T133000Z
+SUMMARY:बारात प्रस्थान · वंशज & अक्षमा
+LOCATION:The Grand Emporio\, Bypass Road\, Sector-25\, HUDA\, Panipat
+END:VEVENT
+END:VCALENDAR

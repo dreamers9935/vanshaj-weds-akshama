@@ -1,0 +1,6 @@
+/* Without JavaScript the invitation becomes a simple scrolling page. */
+html, body { height: auto; overflow: auto; }
+.gate, .pager, .dots, .hint, .countdown-wrap { display: none !important; }
+.stage { position: relative; inset: auto; }
+.scene { position: relative; visibility: visible; min-height: 100vh; }
+.scene .rv { opacity: 1; transform: none; filter: none; }
